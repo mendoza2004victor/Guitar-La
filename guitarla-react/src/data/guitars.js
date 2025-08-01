@@ -1,30 +1,30 @@
 export default [
   {
     id: 1,
-    name: "Guitarra Acústica",
-    description: "Sonido cálido y natural.",
-    price: 500,
+    name: "Lukather",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt",
+    price: $299,
     image: "img/guitarra_01.jpg",
   },
   {
     id: 2,
-    name: "Guitarra Eléctrica",
-    description: "Potente y versátil.",
-    price: 700,
+    name: "SRV",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt",
+    price: $299,
     image: "img/guitarra_02.jpg",
   },
     {
     id: 3,
-    name: "Guitarra Flamenca",
-    description: "Cuerpo ligero, sonido brillante.",
-    price: 650,
+    name: "BORLAND",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt",
+    price: $299,
     image: "img/guitarra_03.jpg"
   },
     {
     id: 4,
-    name: "Guitarra Flamenca",
-    description: "Cuerpo ligero, sonido brillante.",
-    price: 650,
+    name: "VAI",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt",
+    price: $299,
     image: "img/guitarra_04.jpg"
   },
     {
