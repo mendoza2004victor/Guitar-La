@@ -1,0 +1,64 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background: #0c539a;
+}
+
+header {
+  background-color: #001223;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  padding: 2rem;
+  gap: 2rem;
+}
+
+.guitar {
+  background-color: rgb(169, 168, 167);
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  width: 250px;
+  text-align: center;
+}
+
+.guitar img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.guitar h3 {
+  margin-top: 1rem;
+}
+
+.guitar button {
+  background-color: #28a745;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  margin-top: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+aside {
+  background: rgb(169, 168, 167);
+  padding: 1rem;
+  border-radius: 10px;
+  width: 300px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.guitar-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  flex: 1;
+}
